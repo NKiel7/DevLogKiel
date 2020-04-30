@@ -1,0 +1,66 @@
+
+body {
+    background: #111;
+    color: white;    
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #4444;
+  }
+  
+.navbar a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.navbar a:hover {
+    background-color: #333;
+    color: white;
+}
+
+.navbar .home {
+    background-color: #ff8800;
+    cursor: default;
+}
+
+.navbar input {
+    background-color: #333;
+    border: transparent;
+    font-size: large;
+    color: white;
+}
+
+button {
+    background: #333;
+    cursor: pointer;
+    border: transparent;
+    margin: 0;
+}
+
+.navbar .home:hover {
+    background-color: #D56700;
+}
+
+.welcome {
+    line-height: 250%;
+}
+
+h2 {
+    line-height: 125%;
+}
+
+#logs {
+
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+
+}
+
